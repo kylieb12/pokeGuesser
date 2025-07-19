@@ -1,0 +1,50 @@
+Is it Pink?
+Is it Red?
+Is it Yellow?
+Is it Green?
+Is it Blue?
+Is it Purple?
+Is it White?
+Is it Black?
+Is it Brown?
+Is it Gray?
+Does it have legs?
+Is it Normal type?
+Is it Fire type?
+Is it Water type?
+Is it Electric type?
+Is it Grass type?
+Is it Ice type?
+Is it Fighting type?
+Is it Poison type?
+Is it Ground type?
+Is it Flying type?
+Is it Psychic type?
+Is it Bug type?
+Is it Rock type?
+Is it Ghost type?
+Is it Dragon type?
+Is it Dark type?
+Is it Steel type?
+Is it Fairy type?
+Does it Evolve?
+Is it Big (>= 1m tall)?
+Is it Small (< 1m tall)?
+Is it a Starter?
+Is it Generation 1?
+Is it Generation 2?
+Is it Generation 3?
+Is it Generation 4?
+Is it Generation 5?
+Is it Generation 6?
+Is it Generation 7?
+Is it Generation 8?
+Is it Generation 9?
+Does it have a Mega Evolution?
+Is it an Eeveelution?
+Is it a Baby form?
+Is it a Legendary?
+Does it have an Alolan Form?
+Does it have an Hisuian Form?
+Does it have an Galarian Form?
+Is it a Dual Type?
